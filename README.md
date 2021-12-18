@@ -2,7 +2,7 @@ Olá entusiastas, estudantes e profissionais da área de dados!
 
 Está página é dedicada a todos interessados em aprender Ciência de Dados, Machine Learning, Inteligência Artificial, Engenharia de Dados.
 
-Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, mestrado e doutorado de universidades brasileiras que estão disponíveis ao público no Youtube e pertencem a cursos de estatística, ciência da computação, engenharia, TI. Um muitíssimo obrigado a estes ilustres professores.
+Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, mestrado e doutorado de universidades brasileiras que estão disponíveis ao público no Youtube e pertencem a cursos de estatística, ciência da computação, engenharia, TI. Um muitíssimo obrigado a estes ilustres professores! 👏
 
 Material 100% gratuíto e em português.
 
