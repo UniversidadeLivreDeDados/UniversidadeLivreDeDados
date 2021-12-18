@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @UniversidadeLivreDeDados
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá entusiastas, estudantes e profissionais da área de dados!
 
-### Mathematics (PT-BR)
+Está página é dedicada a todos interessados em aprender Ciência de Dados, Machine Learning, Inteligência Artificial, Engenharia de Dados.
+
+Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, mestrado e doutorado de universidades brasileiras que estão disponíveis ao público no Youtube e pertencem a cursos de estatística, ciência da computação, engenharia, TI. Um muitíssimo obrigado a estes ilustres professores.
+
+Material 100% gratuíto e em português.
+
+Achou essa iniciativa útil e quer ajuda-lá? Apenas siga o perfil e compartilhe com quem vai adorar isso! Você também pode ajudar recomendando disciplinas para adicionarmos a essa iniciativa enviando um e-mail para universidadelivrededados@gmail.com
+
+Segue a lista! Bons estudos!
+
+# Disciplinas em Português
+## Mathematics (PT-BR)
 [Calculus I, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
 [Calculus II, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdMv9jKECvjfEaKXIoDEk-S)
@@ -17,7 +24,7 @@
 
 [General Systems Theory and the Decision Making Process, IME (Military Engineering Institute), Prof. Marcos dos Santos](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
 
-### Computer Science (PT-BR)
+## Computer Science (PT-BR)
 [Computer Architecture I, UFBA (Federal University of Bahia), Prof. Ewerton Salvador](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
 
 [Computer Architecture II, UFBA (Federal University of Bahia), Prof. Alisson Brito](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
@@ -69,7 +76,7 @@
 
 [Statistical Inference, UFABC (Federal University of ABC), Prof. Rodrigo Pavão](https://www.youtube.com/playlist?list=PLz5Z9KF2fJszRx6TJDvaMRMNecbAhfSNv)
 
-### Machine Learning (PT-BR)
+## Machine Learning (PT-BR)
 [Introduction to Machine Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0Zoa4_aFhnFDWFLyogcM1xpd)
 
 [Introduction to Deep Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-)
@@ -100,8 +107,7 @@
 
 [Natural Language Processing, UFMG (Federal University of Minas Gerais), Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
 
-**[⬆ Back to top](#learning)**
-
+# Disciplinas em Inglês (Bônus)
 ## Free Stanford University Lectures
 [EE104: Introduction to Machine Learning, Stanford University, Prof. Sanjay Lall](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
 
@@ -124,8 +130,6 @@
 [CS231N Convolutional Neural Networks for Visual Recognition, Stanford University, Professor Fei-Fei Li, Justin Johnson, Serena Yeung](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 [CS329S Machine Learning Systems Design, Stanford University, Seminar Series.](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
-
-**[⬆ Back to top](#learning)**
 
 ## Others University Lectures
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
