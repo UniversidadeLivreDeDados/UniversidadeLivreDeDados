@@ -1,14 +1,12 @@
-Olá entusiastas, estudantes e profissionais da área de dados!
+Bem vindos a Universidade Livre de Dados! Escolha e estude as disciplinas de acordo com o que faz mais sentido para você! 🎓
 
-Está página é dedicada a todos interessados em aprender Ciência de Dados, Machine Learning, Inteligência Artificial, Engenharia de Dados.
+Está página é dedicada a todos entusiastas, estudantes e profissionais da área de dados que esteja interessados em aprender Ciência de Dados, Machine Learning, Inteligência Artificial, Engenharia de Dados. 👨‍💻
 
-Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, mestrado e doutorado de universidades brasileiras que estão disponíveis ao público no Youtube e pertencem a cursos de estatística, ciência da computação, engenharia, TI. Um muitíssimo obrigado a estes ilustres professores! 👏
+Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, mestrado e doutorado de universidades brasileiras que estão disponíveis gratuitamente ao público através do youtube, disciplinas estas que pertencem a cursos de estatística, ciência da computação, engenharia, TI. Um muitíssimo obrigado a estes ilustres professores! 👏
 
-Material 100% gratuíto e em português.
+Achou essa iniciativa útil e quer ajuda-lá? Apenas siga o perfil e compartilhe com quem vai adorar isso! Se você conhece alguma disciplina que pode agregar valor a esta lista, envie sua recomendação para universidadelivrededados@gmail.com 😀
 
-Achou essa iniciativa útil e quer ajuda-lá? Apenas siga o perfil e compartilhe com quem vai adorar isso! Você também pode ajudar recomendando disciplinas para adicionarmos a essa iniciativa enviando um e-mail para universidadelivrededados@gmail.com
-
-Segue a lista! Bons estudos!
+Segue a lista! Bons estudos! 📚
 
 # Disciplinas em Português
 ## Mathematics (PT-BR)
