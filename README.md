@@ -108,7 +108,7 @@ Segue a lista! Bons estudos! 📚
 [Natural Language Processing, UFMG (Federal University of Minas Gerais), Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
 
 # Disciplinas em Inglês (Bônus)
-## Free Stanford University Lectures
+## Stanford University
 [EE104: Introduction to Machine Learning, Stanford University, Prof. Sanjay Lall](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
 
 [CS221 Artificial Intelligence: Principles and Techniques, Stanford University, Prof. Percy Liang](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
@@ -131,7 +131,7 @@ Segue a lista! Bons estudos! 📚
 
 [CS329S Machine Learning Systems Design, Stanford University, Seminar Series.](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 
-## Others University Lectures
+## Others Lectures
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
 
 [High Performance Computing, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwVnlrIPjrfSn7QRcv3wIQj5)
