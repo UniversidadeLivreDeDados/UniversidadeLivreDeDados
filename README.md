@@ -4,7 +4,9 @@ Está página é dedicada a todos entusiastas, estudantes e profissionais da ár
 
 Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, mestrado e doutorado de universidades brasileiras que estão disponíveis gratuitamente ao público através do youtube, disciplinas estas que pertencem a cursos de estatística, ciência da computação, engenharia, TI. Um muitíssimo obrigado a estes ilustres professores! 👏
 
-Achou essa iniciativa útil e quer ajuda-lá? Apenas siga o perfil e compartilhe com quem vai adorar isso! Se você conhece alguma disciplina que pode agregar valor a esta lista, envie sua recomendação para universidadelivrededados@gmail.com 😀
+Achou essa iniciativa útil e quer ajuda-lá? Siga o perfil e compartilhe com os amigos! 
+
+Se você conhece alguma disciplina que pode agregar valor a esta lista, envie sua recomendação para universidadelivrededados@gmail.com 😀
 
 Segue a lista! Bons estudos! 📚
 
