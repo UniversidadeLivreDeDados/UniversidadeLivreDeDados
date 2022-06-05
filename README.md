@@ -10,6 +10,12 @@ Se você conhece alguma disciplina que pode agregar valor a esta lista, envie su
 
 Segue a lista! Bons estudos! 📚
 
+Quantidade de Disciplinas:
+- 7 Matemática
+- 45 Ciência da Computação
+- 10 Estatística
+- 16 Machine Learning
+- 11 Stanford
 ## Matemática
 [Cálculo I, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
@@ -118,7 +124,7 @@ Segue a lista! Bons estudos! 📚
 
 [Desenvolvimento de Sistemas Web 1 (Java), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxMmCjAhZfl30BAskNhi28Ct)
 
-### Outras Disciplinas
+### Outras Disciplinas Ciência da Computação
 [Teoria da Computação, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4OnS7UNGV_KuFFpy-x_9ESB)
 
 [Sistemas de Recomendação, Prof. Marcelo Manzato, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLih3eXOECaZZxbYKN5OEPQAmgefS6YzF0)
@@ -180,7 +186,7 @@ Segue a lista! Bons estudos! 📚
 [3D Graphics Systems: A.I. Graphics, Prof. Luiz Velho, IMPA (Instituto de Matemática Pura e Aplicada)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
 
 ### Processamento de Linguagem Natural
-[Introdução a Ontologias e à Web Semântica, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais), ](https://www.youtube.com/playlist?list=PLt2qoMeOJsQwIj_USr7ftfgCB8qZgrVN5)
+[Introdução a Ontologias e à Web Semântica, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)](https://www.youtube.com/playlist?list=PLt2qoMeOJsQwIj_USr7ftfgCB8qZgrVN5)
 
 [Linguística Computacional, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)](https://www.youtube.com/playlist?list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT)
 
