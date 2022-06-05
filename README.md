@@ -67,7 +67,7 @@ TOTAL 78 Disciplinas em Português
 ### Arquitetura de Software
 [Fundamentos de Arquitetura Orientada a Serviços, Prof. Joel Valim](https://www.youtube.com/playlist?list=PL6GfW7X7hRBtlOEtZXDxlfTFircn1WjAc)
 
-[Componentes e Reúso de Software / Arquitetura  de Software, Prof.André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBa5E3pOnAVzd9gy3pZdif7H)
+[Componentes e Reúso de Software, Prof.André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBa5E3pOnAVzd9gy3pZdif7H)
 
 [Sistemas Distribuídos, Prof. Ramon Pereira Lopes, UFRB (Universidade Federal do Recôncavo da Bahia)](https://www.youtube.com/playlist?list=PLf3m1N7W3tlixXheSrcQ5r6ZH4YbWVPTL)
 
