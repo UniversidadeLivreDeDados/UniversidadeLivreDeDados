@@ -15,6 +15,8 @@ Quantidade de Disciplinas:
 - 45 Ciência da Computação
 - 10 Estatística
 - 16 Machine Learning
+
+
 TOTAL 78 Disciplinas em Português
 
 ## Matemática
