@@ -21,36 +21,79 @@ Segue a lista! Bons estudos! 📚
 
 [Cálculo Numérico, Prof. Alexandre Zabot, UFSC (Universidade Federal de Santa Catarina)](https://www.youtube.com/playlist?list=PLK9soUTDbhdx3wdHgbWazjjAdsyvJQbsN)
 
+[Fundamentos Matemáticos para Computação, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4N7BVp_BP3Q_yefnxecFCur)
+
 [Teoria Geral de Sistemas e o Processo de Tomada de Decisão, Prof. Marcos dos Santos, IME (Instituto Militar de Engenharia)](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
 
 ## Ciência da Computação
-### Hardware e SO
+### Hardware e Sistemas Operacionais
 [Arquitetura de Computadores I, Prof. Ewerton Salvador, UFBA (Universidade Federal da Bahia)](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
 
 [Arquitetura de Computadores II, Prof. Alisson Brito, UFBA (Universidade Federal da Bahia)](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
 
 [Sistemas Operacionais, Prof. Sérgio Carvalho, UFG (Universidade Federal de Goiás)](https://www.youtube.com/playlist?list=PLn9tst_548zU9utXG07-6jZ4zb57yJTtO)
 
+[Compiladores, Prof. Sebastião Emidio Alves Filho, UERN (Universidade do Estado do Rio Grande do Norte)](https://www.youtube.com/playlist?list=PLBWltklN47ng6f_FVDi0hvRSVcGYiwSkh)
+
 ### Bancos de Dados
 [Bancos de Dados, Prof. André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
 
-[Bancos de Dados NoSQL, Prof. Gustavo Poli, UNIFEG (Centro Universitário da Fundação Educacional Guaxupé)(https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
+[Bancos de Dados NoSQL, Prof. Gustavo Poli, UNIFEG (Centro Universitário da Fundação Educacional Guaxupé)](https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
 
 [Tópicos em Big Data, Prof. Altigran Soares da Silva, UFAM (Universidade Federal do Amazonas)](https://www.youtube.com/playlist?list=PLgMem-KiO8qHlO_ojDpN5loeSw6ulaaYM)
 
+[Bancos de Dados II, Prof. Petronio Silva, IFNMG (Instituto Federal do Norte de Minas Gerais)](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzDZgmB-pt0_PxPe0o_TTQju)
+
 ### Engenharia de Software
 [Engenharia de Software, Prof Lucas Vegi, UFV (Universidade Federal de Viçosa)](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
+
+[Design de Software, Prof. Andrey Pimentel, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PLtSSzNmKfR5TQAzEBguz4zs1eBfsAM27U)
+
+[Engenharia de Requisitos, Prof. Camilo Almendra, UFC (Universidade Federal do Ceará)](https://www.youtube.com/playlist?list=PLyyLF4yg-lIEaZvVpc1nslKnpuEyFdeLW)
+
+[Modelagem e Projeto de Software, Prof. Filipe Braida, UFRRJ (Universidade Federal Rural do Rio de Janeiro)](https://www.youtube.com/playlist?list=PLnzT8EWpmbkbTSVytDfmxS7hjIL1lDA3O)
+
+[Projeto Detalhado de Software, Prof. Sidartha Carvalho, UFC (Universidade Federal do Ceará)](https://www.youtube.com/playlist?list=PLHNG2lQNMDuXeliCAGLHRTAn-ZVOfubQu)
+
+### Arquitetura de Software
+[Fundamentos de Arquitetura Orientada a Serviços, Prof. Joel Valim](https://www.youtube.com/playlist?list=PL6GfW7X7hRBtlOEtZXDxlfTFircn1WjAc)
+
+[Componentes e Reúso de Software / Arquitetura  de Software, Prof.André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBa5E3pOnAVzd9gy3pZdif7H)
+
+[Sistemas Distribuídos, Prof. Ramon Pereira Lopes, UFRB (Universidade Federal do Recôncavo da Bahia)](https://www.youtube.com/playlist?list=PLf3m1N7W3tlixXheSrcQ5r6ZH4YbWVPTL)
+
+### Qualidade e Testes de Softwares
+[Qualidade de Software, Prof. Andrey Pimentel, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PLtSSzNmKfR5TLsFByv7TmjMMhqL2Zjyo4)
+
+[Teste de Software, Prof. Julio de Lima](https://www.youtube.com/playlist?list=PLf8x7B3nFTl3EouPsBoqgbatKti9liVyj)
+
+### Programação, Algoritmos e Estrutura de Dados
+[Programação Paralela, Prof. Marco A. Zanata Alves, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
+
+[Estruturas de Dados em Python, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
+
+[Algoritmos e Estruturas de Dados I,  Prof. Marcelo Manzato, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLih3eXOECaZZnaz4gGdD1mFpAbtpd8UsO)
+
+[Algoritmos e Estruturas de Dados II, Prof. Mário César San Felice, UFSCar (Universidade Federal de São Carlos)](https://www.youtube.com/playlist?list=PL5TPkym335qz6i9AYI5CMuxIXRO03JtWj)
+
+[Algoritmos e Estrutura de Dados 2, Prof. André Vignatti, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL4LBA-uBD6KzS4aC_4EkVgXE2-Kn9lLYY)
+
+[Algoritmos e Estruturas de Dados III, Prof. Helio Henrique Monte-Alto, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PLQpMIwiAbgS7NdrhwL9okhui3ivmwwxTi)
+
+[Análise de Algoritmos, Prof. André Vignatti, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL4LBA-uBD6KzJsD3anHQyYYhr_NZ4Da-d)
+
+[Projeto e Análise de Algoritmos, Prof. Mário César San Felice, UFSCar (Universidade Federal de São Carlos)](https://www.youtube.com/playlist?list=PL5TPkym335qzuWNv6DJKfZY8zZ778s-Ho)
+
+[Análise e Síntese de Algoritmos, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4N1AQyDZ836nrJrGYxfPqEC)
 
 ### Redes e Grafos
 [Redes de Computadores, Prof. Edelberto Franco Silva, UFJF (Universidade Federal de Juiz de Fora)](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
 
 [Redes Móveis e sem Fio, Prof. Emanuel Bezerra Rodrigues, UFC (Universidade Federal do Ceará)](https://www.youtube.com/channel/UCsaUc73rZ6V2TY2zFpVUIbg/videos)
 
-### Programação, Algoritmos e Estrutura de dados
+[Teoria dos Grafos, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminense)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4PZW2ZHHvVkVju2i3TFR6ZJ)
 
-[Programação Paralela, Prof. Marco A. Zanata Alves, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
-
-[Estruturas de Dados em Python, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
+[Redes Complexas e Ciência de Redes, Prof. André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYO-OJZr40gCWK_Z-iqfPT1)
 
 ### Otimização 
 [Métodos de Otimização / Pesquisa Operacional / Otimização Linear e Não Linear, Prof. André Marcato, UFJF (Universidade Federal de Juíz de Fora)
@@ -74,6 +117,17 @@ Segue a lista! Bons estudos! 📚
 [Desenvolvimento de Sistemas Web 1 (PHP), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxM8QuQ-C-m8GbB0a17mLEZa)
 
 [Desenvolvimento de Sistemas Web 1 (Java), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxMmCjAhZfl30BAskNhi28Ct)
+
+### Outras Disciplinas
+[Teoria da Computação, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4OnS7UNGV_KuFFpy-x_9ESB)
+
+[Sistemas de Recomendação, Prof. Marcelo Manzato, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLih3eXOECaZZxbYKN5OEPQAmgefS6YzF0)
+
+[Recuperação de Informação, Prof. Marcelo Manzato, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLih3eXOECaZblwh_-u9OJmFc8tusuhz52)
+
+[Computação Inspirada pela Natureza, Prof. Fabricio Breve, UNESP (Universidade Estadual Paulista)](https://www.youtube.com/playlist?list=PLvHXLbw-JSPdf64SlGTigBq9EFUdGwMUV)
+
+[Computação Quântica, Prof. Felipe Fanchini, UNESP (Universidade Estadual Paulista)](https://www.youtube.com/playlist?list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R)
 
 ## Estatística
 ### Básico
@@ -123,12 +177,12 @@ Segue a lista! Bons estudos! 📚
 
 [Processamento de Imagem, Prof. Luiz Velho, IMPA (Instituto de Matemática Pura e Aplicada)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 
-[3D Graphics Systems: A.I. Graphics, Prof. Luiz Velho, IMPA (Instituto de Matemática Pura e Aplicada)(https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
+[3D Graphics Systems: A.I. Graphics, Prof. Luiz Velho, IMPA (Instituto de Matemática Pura e Aplicada)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
 
 ### Processamento de Linguagem Natural
 [Introdução a Ontologias e à Web Semântica, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais), ](https://www.youtube.com/playlist?list=PLt2qoMeOJsQwIj_USr7ftfgCB8qZgrVN5)
 
-[Linguística Computacional, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)(https://www.youtube.com/playlist?list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT)
+[Linguística Computacional, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)](https://www.youtube.com/playlist?list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT)
 
 [Processamento de Linguagem Natural, Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
 
