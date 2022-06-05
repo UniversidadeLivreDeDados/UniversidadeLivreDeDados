@@ -10,105 +10,134 @@ Se você conhece alguma disciplina que pode agregar valor a esta lista, envie su
 
 Segue a lista! Bons estudos! 📚
 
-# Disciplinas em Português
-## Mathematics (PT-BR)
-[Calculus I, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
+## Matemática
+[Cálculo I, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
-[Calculus II, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdMv9jKECvjfEaKXIoDEk-S)
+[Cálculo II, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHdMv9jKECvjfEaKXIoDEk-S)
 
-[Calculus III, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHeoDngd9sdp1tKZcni_GjTU)
+[Cálculo III, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHeoDngd9sdp1tKZcni_GjTU)
 
-[Linear Álgebra, UFMS (Federal University of Mato Grosso do Sul), Prof. Bruno Amaro](https://www.youtube.com/playlist?list=PL87ezx8fhgf8s6A4e9F3UdUpWxLmgzHA7)
+[Álgebra Linear, Prof. Bruno Amaro, UFMS (Universidade Federal do Mato Grosso do Sul)](https://www.youtube.com/playlist?list=PL87ezx8fhgf8s6A4e9F3UdUpWxLmgzHA7)
 
-[Numerical Calculus, UFSC (Federal University of Santa Catarina), Prof. Alexandre Zabot](https://www.youtube.com/playlist?list=PLK9soUTDbhdx3wdHgbWazjjAdsyvJQbsN)
+[Cálculo Numérico, Prof. Alexandre Zabot, UFSC (Universidade Federal de Santa Catarina)](https://www.youtube.com/playlist?list=PLK9soUTDbhdx3wdHgbWazjjAdsyvJQbsN)
 
-[General Systems Theory and the Decision Making Process, IME (Military Engineering Institute), Prof. Marcos dos Santos](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
+[Teoria Geral de Sistemas e o Processo de Tomada de Decisão, Prof. Marcos dos Santos, IME (Instituto Militar de Engenharia)](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
 
-## Computer Science (PT-BR)
-[Computer Architecture I, UFBA (Federal University of Bahia), Prof. Ewerton Salvador](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
+## Ciência da Computação
+### Hardware e SO
+[Arquitetura de Computadores I, Prof. Ewerton Salvador, UFBA (Universidade Federal da Bahia)](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
 
-[Computer Architecture II, UFBA (Federal University of Bahia), Prof. Alisson Brito](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
+[Arquitetura de Computadores II, Prof. Alisson Brito, UFBA (Universidade Federal da Bahia)](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
 
-[Operational Systems, UFG (Federal University of Goiás), Prof. Sérgio Carvalho](https://www.youtube.com/playlist?list=PLn9tst_548zU9utXG07-6jZ4zb57yJTtO)
+[Sistemas Operacionais, Prof. Sérgio Carvalho, UFG (Universidade Federal de Goiás)](https://www.youtube.com/playlist?list=PLn9tst_548zU9utXG07-6jZ4zb57yJTtO)
 
-[Databases, UNICAMP (Federal University of Campinas), Prof. André Santanchè](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
+### Bancos de Dados
+[Bancos de Dados, Prof. André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
 
-[NoSQL Databases, UNIFEG, Prof. Gustavo Poli](https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
+[Bancos de Dados NoSQL, Prof. Gustavo Poli, UNIFEG (Centro Universitário da Fundação Educacional Guaxupé)(https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
 
-[Topics in Big Data, UFAM (Federal University of Amazonas), Prof. Altigran Soares da Silva](https://www.youtube.com/playlist?list=PLgMem-KiO8qHlO_ojDpN5loeSw6ulaaYM)
+[Tópicos em Big Data, Prof. Altigran Soares da Silva, UFAM (Universidade Federal do Amazonas)](https://www.youtube.com/playlist?list=PLgMem-KiO8qHlO_ojDpN5loeSw6ulaaYM)
 
-[Software Engineering, UFV (Federal University of Viçosa), Prof Lucas Vegi](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
+### Engenharia de Software
+[Engenharia de Software, Prof Lucas Vegi, UFV (Universidade Federal de Viçosa)](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
 
-[Computer Networks, UFJF (Federal University of Juiz de Fora), Prof. Edelberto Franco Silva](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
+### Redes e Grafos
+[Redes de Computadores, Prof. Edelberto Franco Silva, UFJF (Universidade Federal de Juiz de Fora)](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
 
-[Mobile Robotics, UFPB (Federal University of Paraíba), Prof. Tiago Pereira do Nascimento](https://www.youtube.com/playlist?list=PLI1MB8Tq01INJdTRUKjs42LGaylORblJ8)
+[Redes Móveis e sem Fio, Prof. Emanuel Bezerra Rodrigues, UFC (Universidade Federal do Ceará)](https://www.youtube.com/channel/UCsaUc73rZ6V2TY2zFpVUIbg/videos)
 
-[Digital Circuits, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6r23bVWzt08qWkxHxzFaEkb)
+### Programação, Algoritmos e Estrutura de dados
 
-[Parallel Programming, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
+[Programação Paralela, Prof. Marco A. Zanata Alves, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
 
-[Information Security, UFU (Federal University of Uberlândia), Prof. Rodrigo Sanches Miani](https://www.youtube.com/playlist?list=PLs_jdaf767yXqc9Rq-o5Vdev4qphqsZWu)
+[Estruturas de Dados em Python, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
 
-[Systems Security and Auditing, IFRS (Federal Institute of Rio Grande do Sul), Prof. Rafael Vieira Coelho](https://www.youtube.com/playlist?list=PLAEIPepIOW5BfV8t1A1cZ0GTQZd4jwdqZ)
+### Otimização 
+[Métodos de Otimização / Pesquisa Operacional / Otimização Linear e Não Linear, Prof. André Marcato, UFJF (Universidade Federal de Juíz de Fora)
+](https://www.youtube.com/playlist?list=PLz7tpQ4EY_nek7dQhRTelJsC3RSJ7Znyf)
 
-[Python Data Structure, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
+[Introdução à Otimização Combinatória, Prof. Mário César San Felice, UFSCar (Universidade Federal de São Carlos)](https://www.youtube.com/playlist?list=PL5TPkym335qx30fwWhlltNt1xhATjzjlu)
 
-### Statistics (PT-BR)
-[Probability, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)
+### Segurança 
+[Segurança da Informação, Prof. Rodrigo Sanches Miani, UFU (Universidade Federal de Uberlândia)](https://www.youtube.com/playlist?list=PLs_jdaf767yXqc9Rq-o5Vdev4qphqsZWu)
 
-[Introduction to Statistics, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FNVUNG9MA6eQZ1mZLIiRIm-)
+[Segurança e Auditoria de Sistemas,Prof. Rafael Vieira Coelho, IFRS (Instituto Federal do Rio Grande do Sul)](https://www.youtube.com/playlist?list=PLAEIPepIOW5BfV8t1A1cZ0GTQZd4jwdqZ)
 
-[Bayesian Inference, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN)
+### Eletrônica
+[Circuitos Digitais, Prof. Marco A. Zanata Alves, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL_9px37PNj6r23bVWzt08qWkxHxzFaEkb)
 
-[Generalized Linear Models, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FNewiAjEBrPo9wefA2FIlQC)
+[Robótica Móvel,  Prof. Tiago Pereira do Nascimento, UFPB (Universidade Federal da Paraíba)](https://www.youtube.com/playlist?list=PLI1MB8Tq01INJdTRUKjs42LGaylORblJ8)
 
-[Stochastic Processes, UFPA (Federal University of Pará), Prof. Marcelino Silva](https://www.youtube.com/playlist?list=PLjoaXFmeSbF9eM-LCyRMs0zTKhpog6OYf)
+### Desenvolvimento Web
+[Desenvolvimento de Sistemas Web 1 (HTML, CSS, JavaScript), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxP4WOHq84PEo62h_K_PJrtV)
 
-[Multivariate Analysis, USP (University of São Paulo), Prof. Cibele Russo](https://www.youtube.com/playlist?list=PLt7qVSwRVn5bg14OLl6dHTNnXVrEM6UiS)
+[Desenvolvimento de Sistemas Web 1 (PHP), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxM8QuQ-C-m8GbB0a17mLEZa)
 
-[Data Viewing and Exploration, USP (University of São Paulo), Prof. Cibele Russo](https://www.youtube.com/playlist?list=PLt7qVSwRVn5YEIvaMb02IJVKCpauWV-s9)
+[Desenvolvimento de Sistemas Web 1 (Java), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxMmCjAhZfl30BAskNhi28Ct)
 
-[Statistics applied to Psychobiology I, UNIFESP (Federal University of São Paulo), Prof. Altay de Souza](https://www.youtube.com/playlist?list=PLZjaOxYREinuHJJ0XiZjkIOzZDyZCh70z)
+## Estatística
+### Básico
+[Probabilidade, Prof. Gustavo Ferreira, ENCE (Escola Nacional de Ciências Estatísticas)](https://www.youtube.com/playlist?list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)
 
-[Statistics applied to Psychobiology II, UNIFESP (Federal University of São Paulo), Prof. Altay de Souza](https://www.youtube.com/playlist?list=PLZjaOxYREinsppORQxouwQPMdifMxRdUO)
+[Introdução à Estatística, Prof. Gustavo Ferreira, ENCE (Escola Nacional de Ciências Estatísticas)](https://www.youtube.com/playlist?list=PL5nbzsxqG2FNVUNG9MA6eQZ1mZLIiRIm-)
 
-[Time Series Analysis, Prof. Alexandre Cunha Costa](https://www.youtube.com/playlist?list=PLSDVadsSlXTCVcg95hQsEOVRnVwgaPTRC)
+### Inferência Estatística
+[Inferência Estatística, Prof. Rodrigo Pavão, UFABC (Universidade Federal do ABC)](https://www.youtube.com/playlist?list=PLz5Z9KF2fJszRx6TJDvaMRMNecbAhfSNv)
 
-[Statistical Inference, UFABC (Federal University of ABC), Prof. Rodrigo Pavão](https://www.youtube.com/playlist?list=PLz5Z9KF2fJszRx6TJDvaMRMNecbAhfSNv)
+[Inferência Bayesiana, Prof. Gustavo Ferreira, ENCE (Escola Nacional de Ciências Estatísticas)](https://www.youtube.com/playlist?list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN)
 
-## Machine Learning (PT-BR)
-[Introduction to Machine Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0Zoa4_aFhnFDWFLyogcM1xpd)
+### Outras Disciplinas Estatística
+[Modelos Lineares Generalizados, Prof. Gustavo Ferreira, ENCE (Escola Nacional de Ciências Estatísticas)](https://www.youtube.com/playlist?list=PL5nbzsxqG2FNewiAjEBrPo9wefA2FIlQC)
 
-[Introduction to Deep Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-)
+[Processos Estocásticos, Prof. Marcelino Silva, UFPA (Universidade Federal do Pará)](https://www.youtube.com/playlist?list=PLjoaXFmeSbF9eM-LCyRMs0zTKhpog6OYf)
 
-[Computer Vision, UFSC (Federal University of Santa Catarina), Prof. Aldo von Wangenheim](https://www.youtube.com/playlist?list=PLmDIGfkfgKy1SBjXA0kBk4DAhIaN1vQOS)
+[Análise Multivariada e Aprendizado Não-Supervisionado, Prof. Cibele Russo, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLt7qVSwRVn5bg14OLl6dHTNnXVrEM6UiS)
 
-[Image Processing, IMPA (Institute of Pure and Applied Mathematics), Prof. Luiz Velho](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
+[Visualização e Exploração de Dados, Prof. Cibele Russo, USP (Universidade deSão Paulo)](https://www.youtube.com/playlist?list=PLt7qVSwRVn5YEIvaMb02IJVKCpauWV-s9)
 
-[3D Graphics Systems: A.I. Graphics,  IMPA (Institute of Pure and Applied Mathematics), Prof. Luiz Velho](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
+### Nível Hard
+[Estatística aplicada a Psicobiologia I, Prof. Altay de Souza, UNIFESP (Universidade Federal de São Paulo)](https://www.youtube.com/playlist?list=PLZjaOxYREinuHJJ0XiZjkIOzZDyZCh70z)
 
-[Pattern Recognition, UFC (Federal University of Ceará), Prof. Carlos Alexandre Fernandes](https://www.youtube.com/playlist?list=PLuf67cBVLogLYpeR0czpF1vX7LRNX-VSC)
+[Estatística aplicada a Psicobiologia  II, Prof. Altay de Souza, UNIFESP (Universidade Federal de São Paulo)](https://www.youtube.com/playlist?list=PLZjaOxYREinsppORQxouwQPMdifMxRdUO)
 
-[Applied Intelligent Systems, UTFPR (Federal Technological University of Paraná), Prof. Thiago Naves](https://www.youtube.com/playlist?list=PLRYRf6MtfBfsEm2Xe8csWYe0HtvEj9F51)
+## Machine Learning
+### Machine Learning
+[Introducão à Machine Learning, Prof. Dalcimar Casanova, UTFPR (Universidade Tecnológica Federal do Paraná)](https://www.youtube.com/playlist?list=PL9At2PVRU0Zoa4_aFhnFDWFLyogcM1xpd)
 
-[Fundamentals of Intelligent Systems, UTFPR (Federal Technological University of Paraná), Prof. Thiago Naves](https://www.youtube.com/playlist?list=PLRYRf6MtfBfvMh2AeUB4q_4Zp1mCmGJuM)
+[Deep Learning, Prof. Dalcimar Casanova, UTFPR (Universidade Tecnológica Federal do Paraná)](https://www.youtube.com/playlist?list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-)
 
-[Introduction to Computational Intelligence, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLs_jdaf767yXhYBDNa4p86wYbqsMK0Vb3)
+[Reconhecimento de Padrões, Prof. Carlos Alexandre Fernandes, UFC (Universidade Federal do Ceará)](https://www.youtube.com/playlist?list=PLuf67cBVLogLYpeR0czpF1vX7LRNX-VSC)
 
-[Topics in Data Science, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLs_jdaf767yWXj6LJOn0rrpVM3CKwAhv2)
+[Sistemas Inteligentes Aplicados, Prof. Thiago Naves, UTFPR (Universidade Tecnológica Federal do Paraná)](https://www.youtube.com/playlist?list=PLRYRf6MtfBfsEm2Xe8csWYe0HtvEj9F51)
 
-[Time Series and Stochastic Processes, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzDtHJlPnwq6vN1-uvJM1wAn)
+[Fundamentos de Sistemas Inteligentes, Prof. Thiago Naves, UTFPR (Universidade Tecnológica Federal do Paraná)](https://www.youtube.com/playlist?list=PLRYRf6MtfBfvMh2AeUB4q_4Zp1mCmGJuM)
 
-[Artificial Neural Networks, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzA58dykAgFovdIOw3Q8kyta)
+[Introdução à Inteligência Computacional, Prof. Petronio Silva, IFNMG (Instituto Federal do Norte de Minas Gerais)](https://www.youtube.com/playlist?list=PLs_jdaf767yXhYBDNa4p86wYbqsMK0Vb3)
 
-[Introduction to Ontologies and the Semantic Web, UFMG (Federal University of Minas Gerais), Prof. Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQwIj_USr7ftfgCB8qZgrVN5)
+[Tópicos em Ciência de Dados, Prof. Petronio Silva, IFNMG (Instituto Federal do Norte de Minas Gerais)](https://www.youtube.com/playlist?list=PLs_jdaf767yWXj6LJOn0rrpVM3CKwAhv2)
 
-[Computational Linguistics, UFMG (Federal University of Minas Gerais), Prof. Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT)
+[Redes Neurais Artificiais, Prof. Petronio Silva, IFNMG (Instituto Federal do Norte de Minas Gerais)](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzA58dykAgFovdIOw3Q8kyta)
 
-[Natural Language Processing, UFMG (Federal University of Minas Gerais), Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
+### Visão Computacional
+[Visão Computacional, Prof. Aldo von Wangenheim, UFSC (Universidade Federal de Santa Catarina)](https://www.youtube.com/playlist?list=PLmDIGfkfgKy1SBjXA0kBk4DAhIaN1vQOS)
 
-# Disciplinas em Inglês (Bônus)
-## Stanford University
+[Processamento de Imagem, Prof. Luiz Velho, IMPA (Instituto de Matemática Pura e Aplicada)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
+
+[3D Graphics Systems: A.I. Graphics, Prof. Luiz Velho, IMPA (Instituto de Matemática Pura e Aplicada)(https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
+
+### Processamento de Linguagem Natural
+[Introdução a Ontologias e à Web Semântica, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais), ](https://www.youtube.com/playlist?list=PLt2qoMeOJsQwIj_USr7ftfgCB8qZgrVN5)
+
+[Linguística Computacional, Prof. Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)(https://www.youtube.com/playlist?list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT)
+
+[Processamento de Linguagem Natural, Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira, UFMG (Universidade Federal de Minas Gerais)](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
+
+### Séries Temporais
+[Séries Temporais e Processos Estocásticos, Prof. Petronio Silva, IFNMG (Instituto Federal do Norte de Minas Gerais)](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzDtHJlPnwq6vN1-uvJM1wAn)
+
+[Análise de Séries Temporais, Prof. Alexandre Cunha Costa](https://www.youtube.com/playlist?list=PLSDVadsSlXTCVcg95hQsEOVRnVwgaPTRC)
+
+## Disciplinas em Inglês - Stanford University (Bônus)
 [EE104: Introduction to Machine Learning, Stanford University, Prof. Sanjay Lall](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
 
 [CS221 Artificial Intelligence: Principles and Techniques, Stanford University, Prof. Percy Liang](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
@@ -131,7 +160,7 @@ Segue a lista! Bons estudos! 📚
 
 [CS329S Machine Learning Systems Design, Stanford University, Seminar Series.](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 
-## Others Lectures
+## Outras Disciplinas em Inglês
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
 
 [High Performance Computing, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwVnlrIPjrfSn7QRcv3wIQj5)
