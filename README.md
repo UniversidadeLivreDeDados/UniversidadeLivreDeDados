@@ -15,7 +15,8 @@ Quantidade de Disciplinas:
 - 45 Ciência da Computação
 - 10 Estatística
 - 16 Machine Learning
-- 11 Stanford
+TOTAL 78 Disciplinas em Português
+
 ## Matemática
 [Cálculo I, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
