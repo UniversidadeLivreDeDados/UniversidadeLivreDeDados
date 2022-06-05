@@ -6,7 +6,7 @@ Aqui temos uma compilação de diversas disciplinas acadêmicas de graduação, 
 
 Achou essa iniciativa útil e quer ajuda-lá? Siga o perfil e compartilhe com os amigos! 
 
-Se você conhece alguma disciplina que pode agregar valor a esta lista, envie sua recomendação para universidadelivrededados@gmail.com 😀
+Se você conhece alguma disciplina que pode agregar valor a esta lista, envie sua recomendação para [Andrey Olv](https://www.linkedin.com/in/andreyolv/) 😀
 
 Segue a lista! Bons estudos! 📚
 
