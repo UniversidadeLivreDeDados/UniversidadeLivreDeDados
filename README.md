@@ -123,9 +123,9 @@ TOTAL 78 Disciplinas em Português
 ### Desenvolvimento Web
 [Desenvolvimento de Sistemas Web 1 (HTML, CSS, JavaScript), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxP4WOHq84PEo62h_K_PJrtV)
 
-[Desenvolvimento de Sistemas Web 1 (PHP), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxM8QuQ-C-m8GbB0a17mLEZa)
+[Desenvolvimento de Sistemas Web 2 (PHP), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxM8QuQ-C-m8GbB0a17mLEZa)
 
-[Desenvolvimento de Sistemas Web 1 (Java), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxMmCjAhZfl30BAskNhi28Ct)
+[Desenvolvimento de Sistemas Web 3 (Java), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxMmCjAhZfl30BAskNhi28Ct)
 
 ### Outras Disciplinas Ciência da Computação
 [Teoria da Computação, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4OnS7UNGV_KuFFpy-x_9ESB)
