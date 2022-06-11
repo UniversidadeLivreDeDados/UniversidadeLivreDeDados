@@ -11,9 +11,9 @@ Se você conhece alguma disciplina que pode agregar valor a esta lista, envie su
 Segue a lista! Bons estudos! 📚
 
 Quantidade de Disciplinas:
-- 7 Matemática
-- 45 Ciência da Computação
-- 10 Estatística
+- 8 Matemática
+- 48 Ciência da Computação
+- 11 Estatística
 - 16 Machine Learning
 
 
@@ -25,6 +25,8 @@ TOTAL 78 Disciplinas em Português
 [Cálculo II, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHdMv9jKECvjfEaKXIoDEk-S)
 
 [Cálculo III, Prof. Cláudio Possani, UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.youtube.com/playlist?list=PLxI8Can9yAHeoDngd9sdp1tKZcni_GjTU)
+
+[Geometria Analítica, Prof. Silvia Taglialenha, UFSC (Universidade Federal de Santa Catarina)](https://www.youtube.com/playlist?list=PLnA3B9j4-FMNbtRwoS5c500YnW-HKraqt)
 
 [Álgebra Linear, Prof. Bruno Amaro, UFMS (Universidade Federal do Mato Grosso do Sul)](https://www.youtube.com/playlist?list=PL87ezx8fhgf8s6A4e9F3UdUpWxLmgzHA7)
 
@@ -42,7 +44,9 @@ TOTAL 78 Disciplinas em Português
 
 [Sistemas Operacionais, Prof. Sérgio Carvalho, UFG (Universidade Federal de Goiás)](https://www.youtube.com/playlist?list=PLn9tst_548zU9utXG07-6jZ4zb57yJTtO)
 
-[Compiladores, Prof. Sebastião Emidio Alves Filho, UERN (Universidade do Estado do Rio Grande do Norte)](https://www.youtube.com/playlist?list=PLBWltklN47ng6f_FVDi0hvRSVcGYiwSkh)
+[Projeto e Design de Interfaces / Interface Humano-Computador, Prof. Dyego Magno, UFERSA (Universidade Federal Rural do Semi-Árido)](https://www.youtube.com/playlist?list=PLGlbbxU5FMlB9NJY1dY-jqWxT30q0V4bo)
+
+[Compiladores, Prof. Judson Santiago, UFERSA (Universidade Federal Rural do Semi-Árido)](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV)
 
 ### Bancos de Dados
 [Bancos de Dados, Prof. André Santanchè, UNICAMP (Universidade Estadual de Campinas)](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
@@ -78,6 +82,8 @@ TOTAL 78 Disciplinas em Português
 
 ### Programação, Algoritmos e Estrutura de Dados
 [Programação Paralela, Prof. Marco A. Zanata Alves, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
+
+[Programação Funcional, Prof. José Edil. UnB (Universidade de Brasília)](https://www.youtube.com/playlist?list=PLfdR3_dt2rbepmU-I6Bjoi5rciMWPGADQ)
 
 [Estruturas de Dados em Python, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
 
@@ -128,6 +134,8 @@ TOTAL 78 Disciplinas em Português
 [Desenvolvimento de Sistemas Web 3 (Java), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxMmCjAhZfl30BAskNhi28Ct)
 
 ### Outras Disciplinas Ciência da Computação
+[Metodologia da Pesquisa em Computação, UFF (Universidade Federal Fluminense)](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__)
+
 [Teoria da Computação, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4OnS7UNGV_KuFFpy-x_9ESB)
 
 [Sistemas de Recomendação, Prof. Marcelo Manzato, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLih3eXOECaZZxbYKN5OEPQAmgefS6YzF0)
@@ -156,7 +164,9 @@ TOTAL 78 Disciplinas em Português
 
 [Análise Multivariada e Aprendizado Não-Supervisionado, Prof. Cibele Russo, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLt7qVSwRVn5bg14OLl6dHTNnXVrEM6UiS)
 
-[Visualização e Exploração de Dados, Prof. Cibele Russo, USP (Universidade deSão Paulo)](https://www.youtube.com/playlist?list=PLt7qVSwRVn5YEIvaMb02IJVKCpauWV-s9)
+[Visualização e Exploração de Dados, Prof. Cibele Russo, USP (Universidade de São Paulo)](https://www.youtube.com/playlist?list=PLt7qVSwRVn5YEIvaMb02IJVKCpauWV-s9)
+
+[Estatística Computacional, Prof. Fernando Ferraz do Nascimento, UFPI (Universidade Federal do Piauí)](https://www.youtube.com/playlist?list=PLUUx2DlFul6LjL3K9AZT2nTlyZ4o38tE7)
 
 ### Nível Hard
 [Estatística aplicada a Psicobiologia I, Prof. Altay de Souza, UNIFESP (Universidade Federal de São Paulo)](https://www.youtube.com/playlist?list=PLZjaOxYREinuHJJ0XiZjkIOzZDyZCh70z)
