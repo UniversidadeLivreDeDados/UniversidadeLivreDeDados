@@ -128,6 +128,8 @@ TOTAL 78 Disciplinas em Português
 
 [O Aprendizado e a Metodologia Científica, Prof. Rodrigo Maximiano Antunes de Almeida, UNIFEI (Universidade Federal de Itajubá) ](https://www.youtube.com/playlist?list=PLqBAJMdCNemnyPbPMm2SK_IUPkxnRIZ2g)
 
+[Sistemas Operacionais Embarcados, Prof. Rodrigo Maximiano Antunes de Almeida, UNIFEI (Universidade Federal de Itajubá)](https://www.youtube.com/playlist?list=PLqBAJMdCNemmvUYzwij935_VYaiuaJkta)
+
 ### Desenvolvimento Web
 [Desenvolvimento de Sistemas Web 1 (HTML, CSS, JavaScript), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxP4WOHq84PEo62h_K_PJrtV)
 
