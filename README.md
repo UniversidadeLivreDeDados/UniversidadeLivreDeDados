@@ -101,6 +101,14 @@ TOTAL 78 Disciplinas em Português
 
 [Análise e Síntese de Algoritmos, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4N1AQyDZ836nrJrGYxfPqEC)
 
+[Curso de Python 3 - Mundo 1: Fundamentos, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+
+[Curso de Python 3 - Mundo 2: Estruturas de Controle, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+
+[Curso de Python 3 - Mundo 3: Estruturas Compostas, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+
+[Exercícios de Python 3, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+
 ### Redes e Grafos
 [Redes de Computadores, Prof. Edelberto Franco Silva, UFJF (Universidade Federal de Juiz de Fora)](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
 
