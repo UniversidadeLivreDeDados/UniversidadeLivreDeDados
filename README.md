@@ -101,6 +101,14 @@ TOTAL 78 Disciplinas em Português
 
 [Análise e Síntese de Algoritmos, Prof. Luís Felipe Ignácio Cunha, UFF (Universidade Federal Fluminese)](https://www.youtube.com/playlist?list=PLt3uqPJ3gc4N1AQyDZ836nrJrGYxfPqEC)
 
+[Curso de Python 3 - Mundo 1: Fundamentos, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+
+[Curso de Python 3 - Mundo 2: Estruturas de Controle, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+
+[Curso de Python 3 - Mundo 3: Estruturas Compostas, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+
+[Exercícios de Python 3, Prof. Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+
 ### Redes e Grafos
 [Redes de Computadores, Prof. Edelberto Franco Silva, UFJF (Universidade Federal de Juiz de Fora)](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
 
@@ -125,6 +133,12 @@ TOTAL 78 Disciplinas em Português
 [Circuitos Digitais, Prof. Marco A. Zanata Alves, UFPR (Universidade Federal do Paraná)](https://www.youtube.com/playlist?list=PL_9px37PNj6r23bVWzt08qWkxHxzFaEkb)
 
 [Robótica Móvel,  Prof. Tiago Pereira do Nascimento, UFPB (Universidade Federal da Paraíba)](https://www.youtube.com/playlist?list=PLI1MB8Tq01INJdTRUKjs42LGaylORblJ8)
+
+[O Aprendizado e a Metodologia Científica, Prof. Rodrigo Maximiano Antunes de Almeida, UNIFEI (Universidade Federal de Itajubá) ](https://www.youtube.com/playlist?list=PLqBAJMdCNemnyPbPMm2SK_IUPkxnRIZ2g)
+
+[Sistemas Operacionais Embarcados, Prof. Rodrigo Maximiano Antunes de Almeida, UNIFEI (Universidade Federal de Itajubá)](https://www.youtube.com/playlist?list=PLqBAJMdCNemmvUYzwij935_VYaiuaJkta)
+
+[Programação de sistemas embarcados, Prof. Rodrigo Maximiano Antunes de Almeida, UNIFEI (Universidade Federal de Itajubá)](https://www.youtube.com/playlist?list=PLqBAJMdCNemmW6nC3g5TGFBywLqy2UBnB)
 
 ### Desenvolvimento Web
 [Desenvolvimento de Sistemas Web 1 (HTML, CSS, JavaScript), Prof. Marnei Cardoso](https://www.youtube.com/playlist?list=PLDIbjIlhRaxP4WOHq84PEo62h_K_PJrtV)
